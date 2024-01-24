@@ -1,5 +1,8 @@
 ## Hi there 👋
 + We are the generative AI group at International Digital Economy Academy.
+
+## Talking Avatar Generation
+[MODA] [MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions](https://liuyunfei.net/projects/iccv23-moda/), `ICCV 2023`.
 <!--
 
 **Here are some ideas to get you started:**
