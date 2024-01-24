@@ -2,11 +2,11 @@
 + This repo lists the generative AI works at International Digital Economy Academy.
 
 ## 3D Generation
-[DreamWaltz] [DreamWaltz: Make a Scene with Complex 3D Animatable Avatars](https://idea-research.github.io/DreamWaltz/), `NeurIPS 2023`.
-[DreamTime] [DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation](https://arxiv.org/abs/2306.12422), `ICLR 2024`.
++ [DreamWaltz] [DreamWaltz: Make a Scene with Complex 3D Animatable Avatars](https://idea-research.github.io/DreamWaltz/), `NeurIPS 2023`.
++ [DreamTime] [DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation](https://arxiv.org/abs/2306.12422), `ICLR 2024`.
 
 ## Talking Head / Avatar Generation
-[MODA] [MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions](https://liuyunfei.net/projects/iccv23-moda/), `ICCV 2023`.
++ [MODA] [MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions](https://liuyunfei.net/projects/iccv23-moda/), `ICCV 2023`.
 <!--
 
 **Here are some ideas to get you started:**
