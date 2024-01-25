@@ -4,6 +4,8 @@
 ## 3D Generation
 + [DreamWaltz] [DreamWaltz: Make a Scene with Complex 3D Animatable Avatars](https://idea-research.github.io/DreamWaltz/), `NeurIPS 2023`.
 + [DreamTime] [DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation](https://arxiv.org/abs/2306.12422), `ICLR 2024`.
++ [Progressive3D] [Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts](https://cxh0519.github.io/projects/Progressive3D/), `ICLR 2024`.
++ [TOSS] [TOSS: High-quality Text-guided Novel View Synthesis from a Single Image](https://toss3d.github.io/), `ICLR 2024`.
 
 ## Talking Head / Avatar Generation
 + [MODA] [MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions](https://liuyunfei.net/projects/iccv23-moda/), `ICCV 2023`.
