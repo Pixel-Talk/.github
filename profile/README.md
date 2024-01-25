@@ -12,11 +12,14 @@
 
 ## Motion Generation
 
-## Talking Head / Avatar Generation
+## Talking Head / Face Editing / Avatar Generation
 + [MODA] [MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions](https://liuyunfei.net/projects/iccv23-moda/), `ICCV 2023`.
++ [GOAE] [Make Encoder Great Again in 3D GAN Inversion through Geometry and Occlusion-Aware Encoding](https://eg3d-goae.github.io/), `ICCV 2023`.
 + [GPAvatar] [GPAvatar: Generalizable and Precise Head Avatar from Image(s)](https://xg-chu.github.io/project_gpavatar/), `ICLR 2024`.
 
 ## Motion Capture
++ [OSX] [One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer](https://osx-ubody.github.io/), `CVPR 2023`.
++ [DWPose] [Effective Whole-body Pose Estimation with Two-stages Distillation](https://github.com/IDEA-Research/DWPose), `ICCV-W 2023`.
 
 ## Datasets
 
