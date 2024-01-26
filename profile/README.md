@@ -24,8 +24,8 @@
 + [DWPose] [Effective Whole-body Pose Estimation with Two-stages Distillation](https://github.com/IDEA-Research/DWPose), `ICCV-W 2023`.
 
 ## Datasets
-+ [Human-Art][Human-Art: A Versatile Human-Centric Dataset Bridging Natural and Artificial Scenes](https://idea-research.github.io/HumanArt/) `CVPR 2023`.
-+ [Motion-X][Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset](https://motion-x-dataset.github.io/), `NeurIPS 2023 Datasets and Benchmarks Track`.
++ [Human-Art] [Human-Art: A Versatile Human-Centric Dataset Bridging Natural and Artificial Scenes](https://idea-research.github.io/HumanArt/) `CVPR 2023`.
++ [Motion-X] [Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset](https://motion-x-dataset.github.io/), `NeurIPS 2023 Datasets and Benchmarks Track`.
  	
 
 <!--
