@@ -1,9 +1,10 @@
 ## Hi there 👋
 + This repo lists the generative AI works at International Digital Economy Academy.
 
-## 2D Generation
+## 2D Generation / Editing
 + [HumanSD] [HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation](https://idea-research.github.io/HumanSD/), `ICCV 2023`.
-
++ [Direct Inversion] [Boosting Diffusion-based Editing with 3 Lines of Code](https://cure-lab.github.io/DirectInversion/), `ICLR 2024`.
+  
 ## 3D Generation
 + [DreamWaltz] [DreamWaltz: Make a Scene with Complex 3D Animatable Avatars](https://idea-research.github.io/DreamWaltz/), `NeurIPS 2023`.
 + [DreamTime] [DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation](https://arxiv.org/abs/2306.12422), `ICLR 2024`.
@@ -18,10 +19,14 @@
 + [GPAvatar] [GPAvatar: Generalizable and Precise Head Avatar from Image(s)](https://xg-chu.github.io/project_gpavatar/), `ICLR 2024`.
 
 ## Motion Capture
++ [EDPose] [Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation](https://github.com/IDEA-Research/ED-Pose), `ICLR 2023`.
 + [OSX] [One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer](https://osx-ubody.github.io/), `CVPR 2023`.
 + [DWPose] [Effective Whole-body Pose Estimation with Two-stages Distillation](https://github.com/IDEA-Research/DWPose), `ICCV-W 2023`.
 
 ## Datasets
++ [Human-Art][Human-Art: A Versatile Human-Centric Dataset Bridging Natural and Artificial Scenes](https://idea-research.github.io/HumanArt/) `CVPR 2023`.
++ [Motion-X][Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset](https://motion-x-dataset.github.io/), `NeurIPS 2023 Datasets and Benchmarks Track`.
+ 	
 
 <!--
 
