@@ -30,7 +30,7 @@
 + [Motion-X] [Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset](https://motion-x-dataset.github.io/), `NeurIPS 2023 Datasets and Benchmarks Track`.
  	
 ## Join Us
-Explore our current intern opportunities by visiting [link1](https://zhuanlan.zhihu.com/p/582929545)],[link2](https://zhuanlan.zhihu.com/p/665196040), [link3](https://zhuanlan.zhihu.com/p/613601556).
+Explore our current intern opportunities by visiting [link1](https://zhuanlan.zhihu.com/p/582929545), [link2](https://zhuanlan.zhihu.com/p/665196040), [link3](https://zhuanlan.zhihu.com/p/613601556).
 <!--
 
 **Here are some ideas to get you started:**
