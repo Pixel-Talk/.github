@@ -5,7 +5,13 @@
 ## 2D Generation / Editing
 + [HumanSD] [HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation](https://idea-research.github.io/HumanSD/), `ICCV 2023`.
 + [Direct Inversion] [Boosting Diffusion-based Editing with 3 Lines of Code](https://cure-lab.github.io/DirectInversion/), `ICLR 2024`.
-  
+
+## Video Generation / Editing
++ [STEM] [A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing](https://stem-inv.github.io/page/), `CVPR 2024`.
+
+## Motion Generation
++ [DiffSHEG] [DiffSHEG: A Diffusion-Based Approach for Real-Time Speech-driven Holistic 3D Expression and Gesture Generation](https://jeremycjm.github.io/proj/DiffSHEG/), `CVPR 2024`.
+
 ## 3D Generation
 + [DreamWaltz] [DreamWaltz: Make a Scene with Complex 3D Animatable Avatars](https://idea-research.github.io/DreamWaltz/), `NeurIPS 2023`.
 + [DreamTime] [DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation](https://arxiv.org/abs/2306.12422), `ICLR 2024`.
