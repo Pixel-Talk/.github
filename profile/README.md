@@ -28,13 +28,14 @@
 + [ClickPose] [Neural Interactive Keypoint Detection](https://github.com/IDEA-Research/Click-Pose), `ICCV 2023`.
 + [OSX] [One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer](https://osx-ubody.github.io/), `CVPR 2023`.
 + [DWPose] [Effective Whole-body Pose Estimation with Two-stages Distillation](https://github.com/IDEA-Research/DWPose), `ICCV-W 2023`.
-
++ [AiOS] [AiOS: All-in-One-Stage 3D Wholebody Mesh Recovery](https://agora-evaluation.is.tuebingen.mpg.de/#reference_smplx12), `CVPR 2024`.
 ## Datasets
 + [Human-Art] [Human-Art: A Versatile Human-Centric Dataset Bridging Natural and Artificial Scenes](https://idea-research.github.io/HumanArt/) `CVPR 2023`.
 + [GHI & Laion-Human] [HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation](https://idea-research.github.io/HumanSD/), `ICCV 2023`.
 + [UBody] [One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer](https://osx-ubody.github.io/), `CVPR 2023`.
 + [Motion-X] [Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset](https://motion-x-dataset.github.io/), `NeurIPS 2023 Datasets and Benchmarks Track`.
- 	
++ [FreeMan] [FreeMan: Towards benchmarking 3D human pose estimation under Real-World Conditions](https://wangjiongw.github.io/freeman/), `CVPR 2024`.
+  
 ## Join Us
 Explore our current intern opportunities by visiting [link1](https://zhuanlan.zhihu.com/p/582929545), [link2](https://zhuanlan.zhihu.com/p/665196040), [link3](https://zhuanlan.zhihu.com/p/613601556).
 <!--
