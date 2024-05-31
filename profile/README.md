@@ -10,16 +10,19 @@
 + [STEM] [A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing](https://stem-inv.github.io/page/), `CVPR 2024`.
 
 ## Motion Generation
-+ [DiffSHEG] [DiffSHEG: A Diffusion-Based Approach for Real-Time Speech-driven Holistic 3D Expression and Gesture Generation](https://jeremycjm.github.io/proj/DiffSHEG/), `CVPR 2024`.
-
++ [DiffSHEG] [A Diffusion-Based Approach for Real-Time Speech-driven Holistic 3D Expression and Gesture Generation](https://jeremycjm.github.io/proj/DiffSHEG/), `CVPR 2024`.
++ [HumanTOMATO] [Text-aligned Whole-body Motion Generation](https://arxiv.org/abs/2310.12978), `ICML 2024`.
+  
 ## 3D Generation
-+ [DreamWaltz] [DreamWaltz: Make a Scene with Complex 3D Animatable Avatars](https://idea-research.github.io/DreamWaltz/), `NeurIPS 2023`.
-+ [DreamTime] [DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation](https://arxiv.org/abs/2306.12422), `ICLR 2024`.
-+ [Progressive3D] [Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts](https://cxh0519.github.io/projects/Progressive3D/), `ICLR 2024`.
-+ [TOSS] [TOSS: High-quality Text-guided Novel View Synthesis from a Single Image](https://toss3d.github.io/), `ICLR 2024`.
++ [DreamWaltz] [Make a Scene with Complex 3D Animatable Avatars](https://idea-research.github.io/DreamWaltz/), `NeurIPS 2023`.
++ [DreamTime] [An Improved Optimization Strategy for Text-to-3D Content Creation](https://arxiv.org/abs/2306.12422), `ICLR 2024`.
++ [Progressive3D] [Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts](https://cxh0519.github.io/projects/Progressive3D/), `ICLR 2024`.
++ [TOSS] [High-quality Text-guided Novel View Synthesis from a Single Image](https://toss3d.github.io/), `ICLR 2024`.
++ [Consistent123] [Improve Consistency for One Image to 3D Object Synthesis](https://consistent-123.github.io/), `Arxiv`.
++ [SSD] [Stable Score Distillation for High-Quality 3D Generation](https://arxiv.org/abs/2312.09305), `Arxiv`.
 
 ## Talking Head / Face Editing / Avatar Generation
-+ [MODA] [MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions](https://liuyunfei.net/projects/iccv23-moda/), `ICCV 2023`.
++ [MODA] [Mapping-Once Audio-driven Portrait Animation with Dual Attentions](https://liuyunfei.net/projects/iccv23-moda/), `ICCV 2023`.
 + [GOAE] [Make Encoder Great Again in 3D GAN Inversion through Geometry and Occlusion-Aware Encoding](https://eg3d-goae.github.io/), `ICCV 2023`.
 + [GPAvatar] [GPAvatar: Generalizable and Precise Head Avatar from Image(s)](https://xg-chu.github.io/project_gpavatar/), `ICLR 2024`.
 
