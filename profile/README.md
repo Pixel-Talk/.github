@@ -11,6 +11,7 @@
 ## 2D Generation / Editing
 + [HumanSD] [HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation](https://idea-research.github.io/HumanSD/), `ICCV 2023`.
 + [Direct Inversion] [Boosting Diffusion-based Editing with 3 Lines of Code](https://cure-lab.github.io/DirectInversion/), `ICLR 2024`.
++ [AddMe] [AddMe: Zero-Shot Group-Photo Synthesis by Inserting People Into Scenes](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03028.pdf), `ECCV 2024`.
 
 ## Video Generation / Editing
 + [STEM] [A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing](https://stem-inv.github.io/page/), `CVPR 2024`.
