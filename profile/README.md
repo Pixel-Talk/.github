@@ -2,6 +2,12 @@
 + 🍿This repo lists the generative AI works at International Digital Economy Academy.
 + 👩‍💻Stay tuned for timely updates.
 
+## Talking Head / Face Editing / Avatar Generation
++ [MODA] [Mapping-Once Audio-driven Portrait Animation with Dual Attentions](https://liuyunfei.net/projects/iccv23-moda/), `ICCV 2023`.
++ [GOAE] [Make Encoder Great Again in 3D GAN Inversion through Geometry and Occlusion-Aware Encoding](https://eg3d-goae.github.io/), `ICCV 2023`.
++ [GPAvatar] [GPAvatar: Generalizable and Precise Head Avatar from Image(s)](https://xg-chu.github.io/project_gpavatar/), `ICLR 2024`.
++ [TEASER] [TEASER: Token Enhanced Spatial Modeling for Expressions Reconstruction](https://arxiv.org/pdf/2502.10982), `ICLR 2025`.
+  
 ## 2D Generation / Editing
 + [HumanSD] [HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation](https://idea-research.github.io/HumanSD/), `ICCV 2023`.
 + [Direct Inversion] [Boosting Diffusion-based Editing with 3 Lines of Code](https://cure-lab.github.io/DirectInversion/), `ICLR 2024`.
@@ -21,11 +27,6 @@
 + [Compress3D] [A Compressed Latent Space for 3D Generation from a Single Image](https://arxiv.org/abs/2403.13524), `ECCV 2024`.
 + [Consistent123] [Improve Consistency for One Image to 3D Object Synthesis](https://consistent-123.github.io/), `Arxiv`.
 + [SSD] [Stable Score Distillation for High-Quality 3D Generation](https://arxiv.org/abs/2312.09305), `Arxiv`.
-
-## Talking Head / Face Editing / Avatar Generation
-+ [MODA] [Mapping-Once Audio-driven Portrait Animation with Dual Attentions](https://liuyunfei.net/projects/iccv23-moda/), `ICCV 2023`.
-+ [GOAE] [Make Encoder Great Again in 3D GAN Inversion through Geometry and Occlusion-Aware Encoding](https://eg3d-goae.github.io/), `ICCV 2023`.
-+ [GPAvatar] [GPAvatar: Generalizable and Precise Head Avatar from Image(s)](https://xg-chu.github.io/project_gpavatar/), `ICLR 2024`.
 
 ## Motion Capture
 + [EDPose] [Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation](https://github.com/IDEA-Research/ED-Pose), `ICLR 2023`.
