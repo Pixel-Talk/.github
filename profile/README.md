@@ -7,7 +7,8 @@
 + [GOAE] [Make Encoder Great Again in 3D GAN Inversion through Geometry and Occlusion-Aware Encoding](https://eg3d-goae.github.io/), `ICCV 2023`.
 + [GPAvatar] [GPAvatar: Generalizable and Precise Head Avatar from Image(s)](https://xg-chu.github.io/project_gpavatar/), `ICLR 2024`.
 + [TEASER] [TEASER: Token Enhanced Spatial Modeling for Expressions Reconstruction](https://arxiv.org/pdf/2502.10982), `ICLR 2025`.
-  
++ [AnyTalk] [AnyTalk: Multi-modal Driven Multi-domain Talking Head Generation](https://anytalker.github.io/), `AAAI 2025`.
+
 ## 2D Generation / Editing
 + [HumanSD] [HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation](https://idea-research.github.io/HumanSD/), `ICCV 2023`.
 + [Direct Inversion] [Boosting Diffusion-based Editing with 3 Lines of Code](https://cure-lab.github.io/DirectInversion/), `ICLR 2024`.
