@@ -1,5 +1,5 @@
 ## Hi there 👋
-+ 🍿This repo lists the generative AI works at International Digital Economy Academy.
++ 🍿This repo lists the generative AI works at IDEA.
 + 👩‍💻Stay tuned for timely updates.
 
 ## Talking Head / Face Editing / Avatar Generation
