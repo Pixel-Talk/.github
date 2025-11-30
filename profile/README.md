@@ -3,7 +3,7 @@
 + 👩‍💻Stay tuned for timely updates.
 
 ## Talking Head / Face Editing / Avatar Generation
-+ [MODA] [Mapping-Once Audio-driven Portrait Animation with Dual Attentions](https://liuyunfei.net/projects/iccv23-moda/), `ICCV 2023`.
++ [MODA] [Mapping-Once Audio-driven Portrait Animation with Dual Attentions](https://liuyunfei.net/projects/iccv23-moda/), `ICCV 2023`. [Code](https://github.com/Pixel-Talk/MODA).
 + [GOAE] [Make Encoder Great Again in 3D GAN Inversion through Geometry and Occlusion-Aware Encoding](https://eg3d-goae.github.io/), `ICCV 2023`.
 + [GPAvatar] [GPAvatar: Generalizable and Precise Head Avatar from Image(s)](https://xg-chu.github.io/project_gpavatar/), `ICLR 2024`.
 + [TEASER] [TEASER: Token Enhanced Spatial Modeling for Expressions Reconstruction](https://arxiv.org/pdf/2502.10982), `ICLR 2025`.
