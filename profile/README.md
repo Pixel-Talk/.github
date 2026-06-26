@@ -2,6 +2,9 @@
 + 🍿This repo lists the generative AI works at IDEA.
 + 👩‍💻Stay tuned for timely updates.
 
+## 🔥News
+[PEAR] Our latest human mesh recovery paper is accpeted in Siggraph 2026. It is an ultra fast at 100FPS and accurate motion capture tool. [Code](https://github.com/Pixel-Talk/PEAR).
+
 ## Talking Head / Face Editing / Avatar Generation
 + [MODA] [Mapping-Once Audio-driven Portrait Animation with Dual Attentions](https://liuyunfei.net/projects/iccv23-moda/), `ICCV 2023`. [Code](https://github.com/Pixel-Talk/MODA).
 + [GOAE] [Make Encoder Great Again in 3D GAN Inversion through Geometry and Occlusion-Aware Encoding](https://eg3d-goae.github.io/), `ICCV 2023`.
